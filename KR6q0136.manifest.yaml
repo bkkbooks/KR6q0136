@@ -1,0 +1,951 @@
+canonical_identifier: bkk:krp/KR6q0136/v1
+canonical_location: https://kanripo.org/bkk/KR6q0136/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: (重雕補註)禪苑清規
+  identifiers:
+    alt_id:
+    - X63n1245
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1245.xml
+    old_id: X63n1245
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0136_000.yaml, hash: 'sha256:1a17e24986587ecbe0605aa0ef7eb783838d1d34b73e8754c3336451094e7f5b'}
+  - {seq: 1, filename: KR6q0136_001.yaml, hash: 'sha256:da7c6e479922ccb6cdc637ad438c86d70c1216582f5c25bc63f52f2a7b173e41'}
+  - {seq: 2, filename: KR6q0136_002.yaml, hash: 'sha256:cd93a386b6f64d92d50a637169dbe20c5af885529ef56eb980e454d596c01d07'}
+  - {seq: 3, filename: KR6q0136_003.yaml, hash: 'sha256:0437bf9c8ed8c5ca10cdf6770562e1ea932bf9f88ecde88d32a6924b24976a45'}
+  - {seq: 4, filename: KR6q0136_004.yaml, hash: 'sha256:304e788e4aaac034210348a3293221069dc3df367f3812af95e92be08a0272d0'}
+  - {seq: 5, filename: KR6q0136_005.yaml, hash: 'sha256:6a6e410cbb102eedeb005269fb45c19a682c2324cc79abe3102239ccc14ad372'}
+  - {seq: 6, filename: KR6q0136_006.yaml, hash: 'sha256:02174a08baf7a7e4e5cf63da6cb00d12de6cf004d1f96251314ad388a1ebc90e'}
+  - {seq: 7, filename: KR6q0136_007.yaml, hash: 'sha256:240fbbad05f2701a2ea1a912d2e390e887fa99148ed89497508d720d61eda719'}
+  - {seq: 8, filename: KR6q0136_008.yaml, hash: 'sha256:9ba5d9b0ad00531a9e853aefa74727655297a02e5ccee5962f4ca81e2c4f050e'}
+  - {seq: 9, filename: KR6q0136_009.yaml, hash: 'sha256:c43d2f8e362d8c9ed2180a9686c309548ce1f1232d37929d4b1b55219cb491cf'}
+  - {seq: 10, filename: KR6q0136_010.yaml, hash: 'sha256:051c72534487415a56b28a3bb77f1378973291bada2509b62b00959d4edfc3ef'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0136_000.markers.yaml, hash: 'sha256:4d89a7331eca9d0654cf4d3ecccd07fd5ea91d9d8df5eaacf8b51d03e7a3c0a3'}
+  - {seq: 1, role: markers, filename: assets/KR6q0136_001.markers.yaml, hash: 'sha256:c27312a0b3ba9793850ae9cb1e03f9752837101b261ea4b996d23e212f7ed01a'}
+  - {seq: 2, role: markers, filename: assets/KR6q0136_002.markers.yaml, hash: 'sha256:66d84c763904b66b295b6a22497c180c46b11d3c80280429e157d3eab8407692'}
+  - {seq: 3, role: markers, filename: assets/KR6q0136_003.markers.yaml, hash: 'sha256:4258f8560979eff10c1aeb89a737059f7e45f37fa104487014e62f4e3b52e323'}
+  - {seq: 4, role: markers, filename: assets/KR6q0136_004.markers.yaml, hash: 'sha256:56ef15ad2f3f64cebc8887338668401303ba5dcba00b606b47c3a9a8bdcc217d'}
+  - {seq: 5, role: markers, filename: assets/KR6q0136_005.markers.yaml, hash: 'sha256:abd9684d12322e4af9ceeedc59252aa9ce44c5510b96e76f889fa5d955d9abd3'}
+  - {seq: 6, role: markers, filename: assets/KR6q0136_006.markers.yaml, hash: 'sha256:26667bfa6be33e972c9c413a7e81b8effd6f57bea3df49547b529656afe71048'}
+  - {seq: 7, role: markers, filename: assets/KR6q0136_007.markers.yaml, hash: 'sha256:9a4216d51eac2d85ceb6a31ed1ebc9f72407b9f40d56e8b1668936a844bea0bd'}
+  - {seq: 8, role: markers, filename: assets/KR6q0136_008.markers.yaml, hash: 'sha256:bec527ad08132472ed278273428d15e03f83bf017c7a6bfb3fb270791e7bd2aa'}
+  - {seq: 9, role: markers, filename: assets/KR6q0136_009.markers.yaml, hash: 'sha256:bf2b13223fec12cb1a528425c944e2937e401ca7879249135ba1bd96c230d211'}
+  - {seq: 10, role: markers, filename: assets/KR6q0136_010.markers.yaml, hash: 'sha256:c586e0792ca981aae6f2f506fed4a27806f77eaa71d97c3a2a4b07125f429e56'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0136_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1245-A 禪苑清規序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0136_X_000-mulu-2
+    span:
+    - front
+    - 237
+    - 237
+  label: 重雕補註禪苑清規目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0136_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6057
+  label: 重雕補註禪苑清規第一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0136_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 受戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0136_X_001-mulu-2
+    span:
+    - body
+    - 198
+    - 198
+  label: 護戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0136_X_001-mulu-3
+    span:
+    - body
+    - 442
+    - 442
+  label: 辨道具
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0136_X_001-mulu-4
+    span:
+    - body
+    - 547
+    - 547
+  label: 裝包
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0136_X_001-mulu-5
+    span:
+    - body
+    - 1149
+    - 1149
+  label: 旦過
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0136_X_001-mulu-6
+    span:
+    - body
+    - 1240
+    - 1240
+  label: 掛搭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0136_X_001-mulu-7
+    span:
+    - body
+    - 2766
+    - 2766
+  label: 赴粥飯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0136_X_001-mulu-8
+    span:
+    - body
+    - 4677
+    - 4677
+  label: 赴茶湯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0136_X_001-mulu-9
+    span:
+    - body
+    - 5146
+    - 5146
+  label: 請因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0136_X_001-mulu-10
+    span:
+    - body
+    - 5538
+    - 5538
+  label: 入室
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0136_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 4264
+  label: 重雕補註禪苑清規第二卷
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0136_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0136_X_002-mulu-2
+    span:
+    - body
+    - 570
+    - 570
+  label: 念誦
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0136_X_002-mulu-3
+    span:
+    - body
+    - 970
+    - 970
+  label: 小參
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0136_X_002-mulu-4
+    span:
+    - body
+    - 1727
+    - 1727
+  label: 結夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0136_X_002-mulu-5
+    span:
+    - body
+    - 2506
+    - 2506
+  label: 解夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0136_X_002-mulu-6
+    span:
+    - body
+    - 2734
+    - 2734
+  label: 冬年人事
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0136_X_002-mulu-7
+    span:
+    - body
+    - 2866
+    - 2866
+  label: 巡寮
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0136_X_002-mulu-8
+    span:
+    - body
+    - 2997
+    - 2997
+  label: 迎接
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0136_X_002-mulu-9
+    span:
+    - body
+    - 3168
+    - 3168
+  label: 請知事
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0136_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 3362
+  label: 重雕補註禪苑清規第三卷
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0136_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 監院
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0136_X_003-mulu-2
+    span:
+    - body
+    - 564
+    - 564
+  label: 維那
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0136_X_003-mulu-3
+    span:
+    - body
+    - 1207
+    - 1207
+  label: 典座
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0136_X_003-mulu-4
+    span:
+    - body
+    - 1510
+    - 1510
+  label: 直歲
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0136_X_003-mulu-5
+    span:
+    - body
+    - 1621
+    - 1621
+  label: 下知事
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0136_X_003-mulu-6
+    span:
+    - body
+    - 1832
+    - 1832
+  label: 請頭首
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0136_X_003-mulu-7
+    span:
+    - body
+    - 2228
+    - 2228
+  label: 首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0136_X_003-mulu-8
+    span:
+    - body
+    - 2606
+    - 2606
+  label: 書狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0136_X_003-mulu-9
+    span:
+    - body
+    - 2828
+    - 2828
+  label: 藏主
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0136_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 3268
+  label: 重雕補註禪苑清規第四卷
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0136_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 知客
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0136_X_004-mulu-2
+    span:
+    - body
+    - 149
+    - 149
+  label: 庫頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0136_X_004-mulu-3
+    span:
+    - body
+    - 461
+    - 461
+  label: 浴主
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0136_X_004-mulu-4
+    span:
+    - body
+    - 709
+    - 709
+  label: 街坊水頭炭頭華嚴頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0136_X_004-mulu-5
+    span:
+    - body
+    - 778
+    - 778
+  label: 磨頭園頭莊主廨院主
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0136_X_004-mulu-6
+    span:
+    - body
+    - 1418
+    - 1418
+  label: 延壽堂主淨頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0136_X_004-mulu-7
+    span:
+    - body
+    - 1951
+    - 1951
+  label: 殿主鐘頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0136_X_004-mulu-8
+    span:
+    - body
+    - 2059
+    - 2059
+  label: 聖僧侍者爐頭直堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0136_X_004-mulu-9
+    span:
+    - body
+    - 2613
+    - 2613
+  label: 寮主寮首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0136_X_004-mulu-10
+    span:
+    - body
+    - 2900
+    - 2900
+  label: 堂頭侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0136_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 4564
+  label: 重雕補註禪苑清規第五卷
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0136_X_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 化主
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0136_X_005-mulu-2
+    span:
+    - body
+    - 1377
+    - 1377
+  label: 下頭首
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0136_X_005-mulu-3
+    span:
+    - body
+    - 1537
+    - 1537
+  label: 堂頭煎點
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0136_X_005-mulu-4
+    span:
+    - body
+    - 2579
+    - 2579
+  label: 僧堂內煎點
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0136_X_005-mulu-5
+    span:
+    - body
+    - 3472
+    - 3472
+  label: 知事頭首點茶
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0136_X_005-mulu-6
+    span:
+    - body
+    - 3726
+    - 3726
+  label: 入寮臘次煎點
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0136_X_005-mulu-7
+    span:
+    - body
+    - 3934
+    - 3934
+  label: 眾中特為煎點
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0136_X_005-mulu-8
+    span:
+    - body
+    - 4339
+    - 4339
+  label: 眾中特為尊長煎點
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 4448
+  label: 重雕補註禪苑清規第六卷
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 法眷及入室弟子特為堂頭煎點
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-2
+    span:
+    - body
+    - 889
+    - 889
+  label: 通眾煎點燒香法
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-3
+    span:
+    - body
+    - 963
+    - 963
+  label: 置食特為
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-4
+    span:
+    - body
+    - 1044
+    - 1044
+  label: 謝茶
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-5
+    span:
+    - body
+    - 1162
+    - 1162
+  label: 看藏經
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-6
+    span:
+    - body
+    - 1527
+    - 1527
+  label: 中筵齋
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-7
+    span:
+    - body
+    - 2054
+    - 2054
+  label: 出入
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-8
+    span:
+    - body
+    - 2468
+    - 2468
+  label: 警眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-9
+    span:
+    - body
+    - 3566
+    - 3566
+  label: 馳書
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-10
+    span:
+    - body
+    - 3857
+    - 3857
+  label: 發書
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-11
+    span:
+    - body
+    - 4016
+    - 4016
+  label: 受書
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0136_X_006-mulu-12
+    span:
+    - body
+    - 4137
+    - 4137
+  label: 將息參堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0136_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 4441
+  label: 重雕補註禪苑清規第七卷
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0136_X_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 大小便利
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0136_X_007-mulu-2
+    span:
+    - body
+    - 359
+    - 359
+  label: 亡僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0136_X_007-mulu-3
+    span:
+    - body
+    - 1867
+    - 1867
+  label: 請立僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0136_X_007-mulu-4
+    span:
+    - body
+    - 2115
+    - 2115
+  label: 請尊宿
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0136_X_007-mulu-5
+    span:
+    - body
+    - 2401
+    - 2401
+  label: 尊宿受疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0136_X_007-mulu-6
+    span:
+    - body
+    - 2912
+    - 2912
+  label: 尊宿入院
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0136_X_007-mulu-7
+    span:
+    - body
+    - 3229
+    - 3229
+  label: 尊宿住持
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0136_X_007-mulu-8
+    span:
+    - body
+    - 3413
+    - 3413
+  label: 尊宿遷化
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0136_X_007-mulu-9
+    span:
+    - body
+    - 4042
+    - 4042
+  label: 退院
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0136_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 3299
+  label: 重雕補註禪苑清規第八卷
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0136_X_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 龜鏡文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0136_X_008-mulu-2
+    span:
+    - body
+    - 1595
+    - 1595
+  label: 坐禪儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0136_X_008-mulu-3
+    span:
+    - body
+    - 2241
+    - 2241
+  label: 自警文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0136_X_008-mulu-4
+    span:
+    - body
+    - 2404
+    - 2404
+  label: 一百二十問
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0136_X_008-mulu-5
+    span:
+    - body
+    - 3074
+    - 3074
+  label: 誡沙彌
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0136_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 4646
+  label: 重雕補註禪苑清規第九卷
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0136_X_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 沙彌受戒文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0136_X_009-mulu-2
+    span:
+    - body
+    - 2591
+    - 2591
+  label: 訓童行
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0136_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 6647
+  label: 重雕補註禪苑清規第十卷
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0136_X_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 勸檀信
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0136_X_010-mulu-2
+    span:
+    - body
+    - 210
+    - 210
+  label: 齋僧儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0136_X_010-mulu-3
+    span:
+    - body
+    - 351
+    - 351
+  label: 百丈規繩頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0136_X_010-mulu-4
+    span:
+    - body
+    - 3899
+    - 3899
+  label: No. 1245-B 新添濾水法(並頌)
+  type: mulu
+  level: 1
+hash: sha256:093888d310883321c11e972505a98ca3efeeb5c62c8d7e564c21365a2ad29862
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
