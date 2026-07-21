@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0136_000.yaml, hash: 'sha256:24f3e857d235f87cf2524bc8f5c5f4b714acc072dbd7149bdfbd5b752ccf197f'}
+  - {seq: 0, filename: KR6q0136_000.yaml, hash: 'sha256:11b4f69962163284993d10d544a59a4b4e5ba04a25e752929599b3047e72abb6'}
   - {seq: 1, filename: KR6q0136_001.yaml, hash: 'sha256:8c839f0fb07c862b882131204dfbfae7df83c48756818e4e970a44cc8f5ad6f3'}
   - {seq: 2, filename: KR6q0136_002.yaml, hash: 'sha256:2c53a1a2b99291400e6567f9a578e3448051970f085d015830d4ab4ebfbaaef6'}
   - {seq: 3, filename: KR6q0136_003.yaml, hash: 'sha256:33243c35375480400b7cc71c4913e7f4da26e8c674bda0ae897dc8419822a826'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6q0136_009.yaml, hash: 'sha256:9b064d8a1e2dc75e462207ef19c9a91efd162b56c2d953fc3e93885e15a7733c'}
   - {seq: 10, filename: KR6q0136_010.yaml, hash: 'sha256:88267bed9d11925eeef6a44350bc951bc72ca5258d964f457b976cbf93526ec1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0136_000.markers.yaml, hash: 'sha256:34c8f76e07d3841115c5139ab42a2c97f88d5d5a10784f32c9f2534bfbeb0f05'}
+  - {seq: 0, role: markers, filename: assets/KR6q0136_000.markers.yaml, hash: 'sha256:ef2f5fd6e5fb81addd5b415924ffa7b29b0853f56c7d75613c35a95374b1e7a5'}
   - {seq: 1, role: markers, filename: assets/KR6q0136_001.markers.yaml, hash: 'sha256:7304d3781c22c3123add682d86b3347dc5546f4cef85d236e8965bb371b37288'}
   - {seq: 2, role: markers, filename: assets/KR6q0136_002.markers.yaml, hash: 'sha256:ed3a638876ab1062efe03442f3bce7d75585f5481d45ac3f464ad143e1bda5a3'}
   - {seq: 3, role: markers, filename: assets/KR6q0136_003.markers.yaml, hash: 'sha256:6f11e69c1086115f76120a9fc7e510b9fd7f11979fb7d59e62e34d3cc6406d7e'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0136_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1245-A 禪苑清規序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0136_X_000-mulu-2
     span:
-    - front
+    - body
     - 237
     - 237
   label: 重雕補註禪苑清規目錄
@@ -945,7 +945,7 @@ table_of_contents:
   label: No. 1245-B 新添濾水法(並頌)
   type: mulu
   level: 1
-hash: sha256:9c28cb15c5955acb86af7f667afade66416f5657d3b5d3ddffda9f2c6da09d32
+hash: sha256:9037631fd0b5eb86b016e091ea2afd1e486f469ec78b31d73b9b5d102993f31d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

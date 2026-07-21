@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0136_000-X.yaml, hash: 'sha256:5355fdc10af66a4cdbe04dc88094f3bf304ff0a7db998b997618bfc6f9b814a8'}
+  - {seq: 0, filename: KR6q0136_000-X.yaml, hash: 'sha256:a2a2466fd62495ba6ed16ea49a26e7f28371a863616e1da81ac4ada0ee3147fe'}
   - {seq: 1, filename: KR6q0136_001-X.yaml, hash: 'sha256:75bc36a148515049832d19dd6b0bda036f60e32631be0a3b18abf3729eb9276c'}
   - {seq: 2, filename: KR6q0136_002-X.yaml, hash: 'sha256:430c4edce8b18bbd20b448adcb6a9df10ffb90839a9fa63d107cee3973f7ea4b'}
   - {seq: 3, filename: KR6q0136_003-X.yaml, hash: 'sha256:1ddbf92c23249d9d2c0002eae63eae7429e77378447803833b6bf0d9266eeaaf'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6q0136_009-X.yaml, hash: 'sha256:c02dec3cfc44d3f6d61ed03285f5e8849b3fb8e7336e211b4a8bf086a31e6aee'}
   - {seq: 10, filename: KR6q0136_010-X.yaml, hash: 'sha256:f821118cf2a595576306ced91fd38a6548585e34175099f8f62cac3876a4e651'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0136_000-X.markers.yaml, hash: 'sha256:485bddc32eddda499d5c6d163e921fcdb66906c7a80e6f801a5729af253c18cc'}
+  - {seq: 0, role: markers, filename: assets/KR6q0136_000-X.markers.yaml, hash: 'sha256:19fdba2aad45546728f018846099d5644b36030094bc427e5ed2bb1e95bd7ebf'}
   - {seq: 1, role: markers, filename: assets/KR6q0136_001-X.markers.yaml, hash: 'sha256:eb6030112d4b93f9fa0f7a4d7c50cef14635dd657f539f3bbdd31b3e8a756c10'}
   - {seq: 2, role: markers, filename: assets/KR6q0136_002-X.markers.yaml, hash: 'sha256:c7649da4c196d637003930eb0fae4a08c86475bc5dbce2c57df88c7cc41410a1'}
   - {seq: 3, role: markers, filename: assets/KR6q0136_003-X.markers.yaml, hash: 'sha256:3d861cb00589e004b5f0234eef62ac148ab8a5d297e05a587b3a38615b1340d5'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0136_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1245-A 禪苑清規序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0136_X_000-mulu-2
     span:
-    - front
+    - body
     - 237
     - 237
   label: 重雕補註禪苑清規目錄
@@ -943,4 +943,4 @@ table_of_contents:
   label: No. 1245-B 新添濾水法(並頌)
   type: mulu
   level: 1
-hash: sha256:997cc893b47e8c9ce22d20d751f15dc479d51d963452d48283ad5bb060cd42ce
+hash: sha256:57b1e004e1579ace97faa58b1e3db4ca1e7eb293a04aaeda88bad7230f942699
